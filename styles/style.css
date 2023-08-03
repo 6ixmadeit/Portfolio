@@ -24,9 +24,6 @@ h3 {
         font-size: 1.2rem;
     }
 
-    .end {
-        margin-right: -10px;
-    }
     
 }
 
@@ -52,8 +49,4 @@ h3 {
 
 #navbar span {
     margin-right: auto;
-}
-
-.end {
-    margin-right: 10px;
 }
