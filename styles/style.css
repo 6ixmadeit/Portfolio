@@ -30,9 +30,13 @@ p {
     h3 {
         font-size: 1.2rem;
     }
-
+    
+    .main-2 *{
+        text-align: center;
+    }
     
 }
+
 
 .main-1 {
     text-align: center;
